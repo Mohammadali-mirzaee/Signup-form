@@ -1,3 +1,3 @@
 # Simple Signup-form Using PHP MySQLi
-using bootstrap Form control
+using bootstrap Form control <br>
 it runs on localhost
