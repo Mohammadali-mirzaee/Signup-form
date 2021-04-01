@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(246, 215, 255);
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(208, 216, 255);
+    margin-top: 250px;
+    border-radius: 2em;
+
+}
+ .h2{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+} 
