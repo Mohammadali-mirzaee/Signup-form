@@ -1,14 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:linear-gradient(to right top,#65dfc9,#6cdbeb);  
+
+
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 .container{
     width: 500px;
     height: 500px;
-    background-color: rgb(201, 175, 235);
-    margin-top: 250px;
+    background:linear-gradient(to right bottom, rgb(255, 255, 255,0.7),rgba(255, 255, 255, 0.3));  
+    margin-top: 50px;
     border-radius: 2em;
 
+}
+.result{
+    background: white;
+    margin-top: 20px;
+    min-height: 200px;
+    width: 800px;
+    background:linear-gradient(to right bottom, rgb(255, 255, 255,0.7),rgba(255, 255, 255, 0.3));  
+    border-radius: 1rem;
 }
  .h2{
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
     font-family: sans-serif;
-} 
+}
+.message{
+    text-align: center;
+}
